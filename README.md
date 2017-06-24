@@ -16,74 +16,74 @@ Learn everything you need to about the subject of this `eBook` project.
 ## Topics
 ```
 Table of Contents
-[ ] Foreword xvii
-[ ] Preface xix
-[ ] Acknowledgments xxv
-[ ] About the Author xxvii
+[x] Foreword xvii
+[x] Preface xix
+[x] Acknowledgments xxv
+[x] About the Author xxvii
 
 PART I: Patterns and Ruby 1
 
 Chapter 1: Building Better Programs with Patterns 3
-[ ] The Gang of Four 4
-[ ] Patterns for Patterns 4
-[ ] Separate Out the Things That Change from Those That Stay the Same 5
-[ ] Program to an Interface, Not an Implementation 5
-[ ] Prefer Composition over Inheritance 7
-[ ] Delegate, Delegate, Delegate 12
-[ ] You Ain't Gonna Need It 13
-[ ] Fourteen Out of Twenty-Three 15
-[ ] Patterns in Ruby? 17
+[x] The Gang of Four 4
+[x] Patterns for Patterns 4
+[x] Separate Out the Things That Change from Those That Stay the Same 5
+[x] Program to an Interface, Not an Implementation 5
+[x] Prefer Composition over Inheritance 7
+[x] Delegate, Delegate, Delegate 12
+[x] You Ain't Gonna Need It 13
+[x] Fourteen Out of Twenty-Three 15
+[x] Patterns in Ruby? 17
 
 Chapter 2: Getting Started with Ruby 19
-[ ] Interactive Ruby 20
-[ ] Saying Hello World 20
-[ ] Variables 23
-[ ] Fixnums and Bignums 24
-[ ] Floats 26
-[ ] There Are No Primitives Here 26
-[ ] But Sometimes There Is No Object 27
-[ ] Truth, Lies, and nil 28
-[ ] Decisions, Decisions 30
-[ ] Loops 32
-[ ] More about Strings 34
-[ ] Symbols 37
-[ ] Arrays 38
-[ ] Hashes 40
-[ ] Regular Expressions 40
-[ ] A Class of Your Own 41
-[ ] Getting at the Instance Variables 43
-[ ] An Object Asks: Who Am I? 46
-[ ] Inheritance, Subclasses, and Superclasses 46
-[ ] Argument Options 47
-[ ] Modules 49
-[ ] Exceptions 52
-[ ] Threads 53
-[ ] Managing Separate Source Files 54
-[ ] Wrapping Up 55
+[x] Interactive Ruby 20
+[x] Saying Hello World 20
+[x] Variables 23
+[x] Fixnums and Bignums 24
+[x] Floats 26
+[x] There Are No Primitives Here 26
+[x] But Sometimes There Is No Object 27
+[x] Truth, Lies, and nil 28
+[x] Decisions, Decisions 30
+[x] Loops 32
+[x] More about Strings 34
+[x] Symbols 37
+[x] Arrays 38
+[x] Hashes 40
+[x] Regular Expressions 40
+[x] A Class of Your Own 41
+[x] Getting at the Instance Variables 43
+[x] An Object Asks: Who Am I? 46
+[x] Inheritance, Subclasses, and Superclasses 46
+[x] Argument Options 47
+[x] Modules 49
+[x] Exceptions 52
+[x] Threads 53
+[x] Managing Separate Source Files 54
+[x] Wrapping Up 55
 
 PART II: Patterns in Ruby 57
 
-[ ] Chapter 3: Varying the Algorithm with the Template Method 59
-[ ] Keeping Up with What Life Throws at You 60
-[ ] Separate the Things That Stay the Same 61
-[ ] Discovering the Template Method Pattern 65
-[ ] Hook Methods 66
-[ ] But Where Are All the Declarations? 68
-[ ] Types, Safety, and Flexibility 69
-[ ] Unit Tests Are Not Optional 71
-[ ] Using and Abusing the Template Method Pattern 73
-[ ] Templates in the Wild 74
-[ ] Wrapping Up 75
+[x] Chapter 3: Varying the Algorithm with the Template Method 59
+[x] Keeping Up with What Life Throws at You 60
+[x] Separate the Things That Stay the Same 61
+[x] Discovering the Template Method Pattern 65
+[x] Hook Methods 66
+[x] But Where Are All the Declarations? 68
+[x] Types, Safety, and Flexibility 69
+[x] Unit Tests Are Not Optional 71
+[x] Using and Abusing the Template Method Pattern 73
+[x] Templates in the Wild 74
+[x] Wrapping Up 75
 
 Chapter 4: Replacing the Algorithm with the Strategy 77
-[ ] Delegate, Delegate, and Delegate Again 78
-[ ] Sharing Data between the Context and the Strategy 80
-[ ] Duck Typing Yet Again 82
-[ ] Procs and Blocks 84
-[ ] Quick-and-Dirty Strategies 88
-[ ] Using and Abusing the Strategy Pattern 90
-[ ] The Strategy Pattern in the Wild 90
-[ ] Wrapping Up 92
+[x] Delegate, Delegate, and Delegate Again 78
+[x] Sharing Data between the Context and the Strategy 80
+[x] Duck Typing Yet Again 82
+[x] Procs and Blocks 84
+[x] Quick-and-Dirty Strategies 88
+[x] Using and Abusing the Strategy Pattern 90
+[x] The Strategy Pattern in the Wild 90
+[x] Wrapping Up 92
 
 Chapter 5: Keeping Up with the Times with the Observer 95
 [ ] Staying Informed 95
