@@ -86,14 +86,14 @@ Chapter 4: Replacing the Algorithm with the Strategy 77
 [x] Wrapping Up 92
 
 Chapter 5: Keeping Up with the Times with the Observer 95
-[ ] Staying Informed 95
-[ ] A Better Way to Stay Informed 97
-[ ] Factoring Out the Observable Support 100
-[ ] Code Blocks as Observers 104
-[ ] Variations on the Observer Pattern 105
-[ ] Using and Abusing the Observer Pattern 106
-[ ] Observers in the Wild 108
-[ ] Wrapping Up 109
+[x] Staying Informed 95
+[x] A Better Way to Stay Informed 97
+[x] Factoring Out the Observable Support 100
+[x] Code Blocks as Observers 104
+[x] Variations on the Observer Pattern 105
+[x] Using and Abusing the Observer Pattern 106
+[x] Observers in the Wild 108
+[x] Wrapping Up 109
 
 Chapter 6: Assembling the Whole from the Parts with the Composite 111
 [ ] The Whole and the Parts 112
