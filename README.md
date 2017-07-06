@@ -96,15 +96,15 @@ Chapter 5: Keeping Up with the Times with the Observer 95
 [x] Wrapping Up 109
 
 Chapter 6: Assembling the Whole from the Parts with the Composite 111
-[ ] The Whole and the Parts 112
-[ ] Creating Composites 114
-[ ] Sprucing Up the Composite with Operators 118
-[ ] An Array as a Composite? 119
-[ ] An Inconvenient Difference 120
-[ ] Pointers This Way and That 120
-[ ] Using and Abusing the Composite Pattern 122
-[ ] Composites in the Wild 123
-[ ] Wrapping Up 125
+[x] The Whole and the Parts 112
+[x] Creating Composites 114
+[x] Sprucing Up the Composite with Operators 118
+[x] An Array as a Composite? 119
+[x] An Inconvenient Difference 120
+[x] Pointers This Way and That 120
+[x] Using and Abusing the Composite Pattern 122
+[x] Composites in the Wild 123
+[x] Wrapping Up 125
 
 Chapter 7: Reaching into a Collection with the Iterator 127
 [ ] External Iterators 127
