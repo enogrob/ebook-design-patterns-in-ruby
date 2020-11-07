@@ -242,13 +242,13 @@ Chapter 16: Opening Up Your System with Domain-Specific Languages 283
 [ ] Wrapping Up 295
 
 Chapter 17: Creating Custom Objects with Meta-programming 297
-[ ] Custom-Tailored Objects, Method by Method 298
-[ ] Custom Objects, Module by Module 300
-[ ] Conjuring Up Brand-New Methods 301
-[ ] An Object's Gaze Turns Inward 306
-[ ] Using and Abusing Meta-programming 306
-[ ] Meta-programming in the Wild 308
-[ ] Wrapping Up 311
+[x] Custom-Tailored Objects, Method by Method 298
+[x] Custom Objects, Module by Module 300
+[x] Conjuring Up Brand-New Methods 301
+[x] An Object's Gaze Turns Inward 306
+[x] Using and Abusing Meta-programming 306
+[x] Meta-programming in the Wild 308
+[x] Wrapping Up 311
 
 Chapter 18: Convention Over Configuration 313
 [ ] A Good User Interface--for Developers 315
