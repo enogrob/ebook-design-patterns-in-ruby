@@ -116,10 +116,10 @@ Chapter 7: Reaching into a Collection with the Iterator 127
 [ ] Wrapping Up 140
 
 Chapter 8: Getting Things Done with Commands 143
-[ ] An Explosion of Subclasses 144
-[ ] An Easier Way 145
-[ ] Code Blocks as Commands 147
-[ ] Commands That Record 148
+[x] An Explosion of Subclasses 144
+[x] An Easier Way 145
+[x] Code Blocks as Commands 147
+[x] Commands That Record 148
 [ ] Being Undone by a Command 151
 [ ] Queuing Up Commands 154
 [ ] Using and Abusing the Command Pattern 154
