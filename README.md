@@ -120,13 +120,13 @@ Chapter 8: Getting Things Done with Commands 143
 [x] An Easier Way 145
 [x] Code Blocks as Commands 147
 [x] Commands That Record 148
-[ ] Being Undone by a Command 151
-[ ] Queuing Up Commands 154
-[ ] Using and Abusing the Command Pattern 154
-[ ] The Command Pattern in the Wild 155
-[ ] ActiveRecord Migrations 155
-[ ] Madeleine 156
-[ ] Wrapping Up 160
+[x] Being Undone by a Command 151
+[x] Queuing Up Commands 154
+[x] Using and Abusing the Command Pattern 154
+[x] The Command Pattern in the Wild 155
+[x] ActiveRecord Migrations 155
+[x] Madeleine 156
+[x] Wrapping Up 160
 
 Chapter 9: Filling in the Gaps with the Adapter 163
 [ ] Software Adapters 164
