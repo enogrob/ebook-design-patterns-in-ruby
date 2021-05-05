@@ -153,15 +153,15 @@ Chapter 10: Getting in Front of Your Object with a Proxy 175
 [ ] Wrapping Up 192
 
 Chapter 11: Improving Your Objects with a Decorator 193
-[ ] Decorators: The Cure for Ugly Code 193
-[ ] Formal Decoration 200
-[ ] Easing the Delegation Blues 200
-[ ] Dynamic Alternatives to the Decorator Pattern 201
-[ ] Wrapping Methods 202
-[ ] Decorating with Modules 202
-[ ] Using and Abusing the Decorator Pattern 204
-[ ] Decorators in the Wild 205
-[ ] Wrapping Up 206
+[x] Decorators: The Cure for Ugly Code 193
+[x] Formal Decoration 200
+[x] Easing the Delegation Blues 200
+[x] Dynamic Alternatives to the Decorator Pattern 201
+[x] Wrapping Methods 202
+[x] Decorating with Modules 202
+[x] Using and Abusing the Decorator Pattern 204
+[x] Decorators in the Wild 205
+[x] Wrapping Up 206
 
 Chapter 12: Making Sure There Is Only One with the Singleton 207
 [ ] One Object, Global Access 207
