@@ -7,17 +7,17 @@ Chapter 6 introduces the Composite pattern, which lets clients treat individual 
 ```mermaid
 flowchart TB
   subgraph Component
-    C[Component Interface]
-    A[Leaf]
-    B[Composite]
+    C["Component Interface"]
+    A["Leaf"]
+    B["Composite"]
   end
   B -->|contains| C
   C --> A
   C --> B
   subgraph Operations
-    Add[add(child)]
-    Remove[remove(child)]
-    Op[operation()]
+    Add["add(child)"]
+    Remove["remove(child)"]
+    Op["operation()"]
   end
   B --> Add
   B --> Remove
