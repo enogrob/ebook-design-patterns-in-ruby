@@ -7,20 +7,20 @@ Chapter 5 presents the Observer pattern, enabling objects (observers) to subscri
 ```mermaid
 flowchart LR
   subgraph Observable
-    Subject[Subject (Observable)]
-    Attach[add_observer]
-    Notify[notify_observers]
+    Subject["Subject (Observable)"]
+    Attach["add_observer"]
+    Notify["notify_observers"]
   end
   subgraph Observer
-    Obs[Observer objects]
-    Update[update(state)]
+    Obs["Observer objects"]
+    Update["update(state)"]
   end
   Subject --> Attach
   Subject --> Notify
   Notify --> Obs
   Obs --> Update
-  Pull[Pull Model] -.-> Subject
-  Push[Push Model] -.-> Update
+  Pull["Pull Model"] -.-> Subject
+  Push["Push Model"] -.-> Update
 ```  
 
 **Key Concepts**
